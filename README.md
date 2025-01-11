@@ -1,0 +1,2 @@
+# weatherNotGIT
+not git
